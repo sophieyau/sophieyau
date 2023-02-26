@@ -32,3 +32,5 @@ theme_color: black
 
 # Build settings
 markdown: kramdown
+bundle exec jekyll serve
+
